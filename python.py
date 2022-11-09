@@ -1,0 +1,2 @@
+i="harshal"
+print(i)
