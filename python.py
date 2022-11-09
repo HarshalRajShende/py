@@ -1,2 +1,2 @@
-i="harshal"
-print(i)
+k = "hello"+"world"
+print(k)
